@@ -1,0 +1,29 @@
+SOURCE: CUNY Commons — For Students Portal
+URL: https://forstudents.commons.gc.cuny.edu/
+NOTE: This file should be filled in manually by visiting the URL and copying the relevant student resource text.
+
+--- WHAT TO CAPTURE ---
+Copy the following types of content from the portal:
+- Academic support resources (tutoring, writing centers, advising)
+- Student community programs and initiatives
+- CUNY-wide services available to Hunter students
+- Transfer and ePermit guidance
+- Any student-facing FAQs or resource descriptions
+
+--- PLACEHOLDER CONTENT (replace with actual copied text) ---
+
+CUNY Commons For Students is a hub for CUNY student resources across all campuses. Students at Hunter College can access shared CUNY services including:
+
+Academic Support: CUNY offers tutoring and writing support across campuses. Students at Hunter can access the Writing Center located on campus, peer tutoring through the Learning Commons, and SEEK (Search for Education, Elevation and Knowledge) academic support for eligible students.
+
+ePermit System: CUNY students can take courses at other CUNY campuses using the ePermit system. Hunter students can enroll in courses at Baruch, Brooklyn, Queens, City College, and other CUNY schools if a needed course is unavailable at Hunter. Applications are submitted through CUNYfirst.
+
+CUNY Transfer: The CUNY transfer process allows students to move between CUNY community colleges and senior colleges. Hunter accepts transfer students, and credits earned at CUNY community colleges like Queensborough, LaGuardia, or Borough of Manhattan (BMCC) transfer to Hunter.
+
+CUNY Online: Many courses are available fully online through CUNY. Students looking for flexible scheduling can search for online course offerings across the CUNY system.
+
+Student Government: Hunter's Undergraduate Student Government (USG) represents student interests on campus. USG membership can grant students priority registration — a significant benefit for course enrollment.
+
+CUNY First: The primary student portal for registration, financial aid, grades, and transcripts. Hunter students use CUNYfirst to register for courses, view billing statements, and manage academic records.
+
+Accessibility Resources: CUNY provides accessibility services for students with disabilities. Hunter's Office of AccessABILITY assists students in obtaining academic accommodations, including extended test time, note-taking assistance, and other support.

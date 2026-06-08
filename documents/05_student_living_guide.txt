@@ -1,0 +1,33 @@
+SOURCE: Hunter College Official — Student Living Guide
+URL: https://www.hunter.cuny.edu/students/campus-life/student-living-guide/
+NOTE: The official page returned no content during automated fetching (likely JavaScript-rendered). Fill this file in manually by visiting the URL.
+
+--- WHAT TO CAPTURE ---
+Copy the following types of content from the page:
+- Campus neighborhood overview (Upper East Side, 68th & Lexington)
+- On-campus housing information (Roosevelt House, student residence options)
+- Commuter student resources and tips
+- Nearby transit information (4/5/6 subway at 68th St–Hunter College station)
+- Campus building layout (East Building, West Building, Brookdale campus, etc.)
+- Campus facilities (library, cafeteria, fitness center, computer labs)
+- Safety and public safety contacts
+
+--- PLACEHOLDER CONTENT (replace with actual copied text) ---
+
+Hunter College Campus Location: Hunter College is located at 695 Park Ave, New York, NY 10065, at the intersection of East 68th Street and Lexington Avenue on the Upper East Side of Manhattan.
+
+Transit Access: The main campus is directly accessible via the 4, 5, and 6 subway lines at the 68th Street–Hunter College station on Lexington Avenue. The campus is also accessible by the M15 bus on Second and Third Avenues and multiple crosstown bus routes.
+
+Campus Buildings: Hunter College has two main buildings — the East Building and the West Building — connected by a sky bridge over Lexington Avenue. The Thomas Hunter Building is the original historic building located on 68th and Park. The Brookdale campus at 425 East 25th Street houses the School of Health Professions and Nursing programs.
+
+Student Residence: Hunter College has limited on-campus housing. The student residence is located at 425 East 25th Street (Brookdale campus). Space is competitive and primarily available to nursing and health professions students. Most Hunter students are commuters.
+
+Commuter Resources: Hunter is primarily a commuter school. The Student Services building provides lockers for commuter students to store belongings between classes. The Thomas Hunter Lounge and other common areas are available for students to rest, study, or eat between classes.
+
+Library: The Jacqueline Grennan Wexler Library is located on the third floor of the West Building. It offers study spaces, computer workstations, printing, and access to academic databases. Group study rooms can be reserved online.
+
+Dining: The Hunter cafeteria is located in the North Building. There is also a Starbucks on campus. Many students eat at nearby restaurants on Lexington Avenue and the surrounding Upper East Side neighborhood.
+
+Fitness Center: Hunter has a fitness center available to enrolled students with a valid Hunter ID. The center includes cardio machines, weights, and fitness classes.
+
+Campus Safety: Public Safety is available 24 hours. The emergency number is (212) 650-3333. Students can also use the LiveSafe mobile app to report safety concerns or request a safety escort on campus.
