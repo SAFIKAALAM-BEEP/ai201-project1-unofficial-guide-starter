@@ -1,46 +1,35 @@
 SOURCE: Reddit r/HunterCollege — Diversity & Pluralism Thread
 URL: https://www.reddit.com/r/HunterCollege/comments/n1klvq/looking_for_pluralism_diversity_recommendations/
-NOTE: Reddit was blocked during automated fetching. Fill this file in manually by visiting the URL and copying the post and top comments.
 
---- WHAT TO CAPTURE ---
-Copy:
-- The original post text
-- Top-voted comments (aim for at least 5–10 comments)
-- Any specific course names, professor names, or club names mentioned
-- Any advice about navigating diversity requirements or cultural communities at Hunter
-
---- PLACEHOLDER CONTENT (replace with actual copied text) ---
 
 Thread Title: Looking for pluralism/diversity recommendations
 
-Original Post (paraphrased from thread context): A Hunter student is asking for recommendations on pluralism and diversity course requirements at Hunter College, as well as recommendations for clubs or communities that celebrate cultural diversity on campus.
+Greek and Latin Roots of English is a good course, and not only should it still be on the P&D list, it will also help with math and science terminology.
 
-General context about Hunter's diversity:
-Hunter College is consistently ranked among the most diverse colleges in the United States. Its student body reflects the demographics of New York City, with large populations of students from Latin American, Asian, Middle Eastern, African American, and immigrant communities. Many students are first-generation college students and many work part-time or full-time while attending school.
+I enjoyed World Regional Geography (not sure if Prof. Gong is still there, but she was great). I think WRG falls in P&D groups 1 and 4.
 
-Hunter's Pluralism and Diversity Requirement: Hunter College requires all students to complete courses that satisfy the Pluralism and Diversity (PLUR) general education requirement. Students can fulfill this requirement through a range of courses in the social sciences, humanities, and arts that engage with questions of identity, equity, race, ethnicity, gender, and culture.
+Groups 2 and 3 can be tricky. I was an English and Classical Studies double major, and I took Native American Lit for Group 2. I tried taking Women in Music for Group 3, but the professor wanted us to attend events that conflicted with our class schedules (no idea why she was so adamant), so I had to drop it. I wound up taking Women's Studies 101. If Prof. Ancona is still around, Women and Slaves in Antiquity would be interesting (she's great, but her class conflicted with another course I needed).
 
-Recommended Pluralism courses (commonly mentioned by students):
-- Sociology of Race and Ethnicity
-- Latinx Studies courses
-- Women's and Gender Studies courses
-- African American Studies courses
-- Asian American Studies courses
-- Anthropology courses focused on cultural identity
+I haven't looked over the P&D list for years, but there should be a lot to choose from. It's best if you can find ones that fit your major so you don't have to spend extra time on classes. 
 
-Cultural clubs at Hunter:
-Hunter has numerous cultural and identity-based student clubs including:
-- Black Student Union
-- Latin American Student Organization (LASO)
-- Asian Pacific Alliance
-- Muslim Student Association
-- Vietnamese Student Association (VSA)
-- Caribbean Student Alliance
-- South Asian Student Association
-- LGBTQ+ clubs and advocacy organizations
+World Regional Geography is now called "World Regions in Global Context." Still GEOG 15000.
 
-Student advice from r/HunterCollege threads:
-- "Hunter is extremely diverse — you'll find communities from almost every background."
-- "The pluralism requirement is pretty easy to fulfill — just pick a topic you're genuinely curious about."
-- "VSA, LASO, and BSU all do great events. Go to their Involvement Fair at the start of each semester to find your people."
-- "Hunter feels very commuter-oriented so clubs are one of the best ways to actually build connections on campus."
+Wow, they took out a LOT of CLA courses from Group 1!
+
+Native American Lit is still in Group 2.
+
+History of Jazz in Group 2 looks interesting.
+
+Women and Slaves in Antiquity is still in Group 3.
+
+FILM 21500 Women and Film might be good (Group 3).
+
+Women and Music is still in Group 3.
+
+Intro to Women's Studies is still in Group 3.
+
+Classical Mythology is a good one, and it's in Group 4.
+
+Greek Civ and Roman Civ are both good courses.
+
+Intro to Film in Group 4 is supposed to be good (in my day, students got to watch Psycho). 

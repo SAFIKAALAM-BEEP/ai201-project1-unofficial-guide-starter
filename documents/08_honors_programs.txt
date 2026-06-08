@@ -1,16 +1,6 @@
 SOURCE: Hunter College Official — Honors & Scholars Programs
 URL: https://www.hunter.cuny.edu/honors-scholars-programs/
-NOTE: This page returned no content during automated fetching (likely JavaScript-rendered). Fill this in manually by visiting the URL, or use the scholarship content already captured in 09_scholarships.txt as a supplement.
 
---- WHAT TO CAPTURE ---
-Copy descriptions and eligibility requirements for:
-- Macaulay Honors College at Hunter
-- Thomas Hunter Honors Program
-- Collegiate Science and Technology Entry Program (CSTEP)
-- SEEK (Search for Education, Elevation and Knowledge)
-- Any other honors tracks or scholars programs listed
-
---- CONTENT FROM RELATED SOURCES ---
 
 MACAULAY HONORS COLLEGE AT HUNTER
 Source: Scholarships page (hunter.cuny.edu)
@@ -46,3 +36,55 @@ CSTEP is a New York State-funded program that supports historically underreprese
 
 SEEK (Search for Education, Elevation and Knowledge)
 SEEK is CUNY's opportunity program for students from low-income backgrounds who show academic potential but may not meet standard admissions requirements. SEEK students receive financial aid supplements, counseling, tutoring, and additional support services. Hunter's SEEK program is one of the largest in the CUNY system.
+
+The Thomas Hunter Honors Program (THHP)
+
+Offers extensive support in interdisciplinary study within a student's major, or in one they create, through highly attentive faculty advising.
+
+Departmental Honors
+
+Allows qualified students to pursue honors within their major department through an in-depth research project or essay related to the discipline.
+
+McNair Scholars Program
+
+Provides underrepresented and/or first generation college students with research, scholarly activities and preparation for doctoral study.
+
+McNulty Scholars Program
+
+Prepares outstanding and ambitious undergraduate women majoring in STEM for leadership roles in science and math.
+
+Mellon Foundation Grants
+
+Supports a new and diverse generation of leaders in the arts, humanities and social sciences through internships, research, mentoring and more.
+
+Athena: Humanities, Philosophy, and Literature
+
+Offers in-depth study of large philosophical questions supported by top faculty, programs and resources within the humanities.
+
+Daedalus: Computer Science
+
+Provides students with dedicated advisors and special courses that combine computer science with tech industry best practices and mentoring.
+
+Muse: Visual and Performing Arts, Media and Creative Writing
+
+Supports artistically talented students through Hunter's exceptional arts programs and exposure to arts organizations and events throughout NYC.
+
+Nursing: Leadership in the Field of Nursing
+
+Invites students to pursue an enhanced, academically-challenging nursing education that encourages them to become leaders in the profession.
+
+Roosevelt: Policy, Law, Civic Life, Social Science
+
+Offers students with a passion for civic engagement and public affairs to engage in rigorous study supported by Roosevelt House faculty and advisors. 
+
+Yalow: Scientific Research and Pre-Med
+
+Provides students interested in medicine and research with access to faculty, conferences and resources to help them start a career in the sciences.
+
+NextGen: Education, Social Work, and Advocacy
+
+An immersive and dynamic programs designed to cultivate leaders in the field of education, social work, and juvenile justice. 
+
+Salud: Public Health and Access
+
+For students passionate about health, equity, and social justice. Scholars build a strong academic foundation, gain hands-on experience through internships and research in NYC, and benefit from mentorship, peer support, and a supportive cohort of students who share their passion for health & equity.

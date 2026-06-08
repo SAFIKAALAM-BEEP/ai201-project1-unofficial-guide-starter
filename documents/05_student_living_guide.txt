@@ -1,24 +1,272 @@
 SOURCE: Hunter College Official — Student Living Guide
 URL: https://www.hunter.cuny.edu/students/campus-life/student-living-guide/
-NOTE: The official page returned no content during automated fetching (likely JavaScript-rendered). Fill this file in manually by visiting the URL.
-
---- WHAT TO CAPTURE ---
-Copy the following types of content from the page:
-- Campus neighborhood overview (Upper East Side, 68th & Lexington)
-- On-campus housing information (Roosevelt House, student residence options)
-- Commuter student resources and tips
-- Nearby transit information (4/5/6 subway at 68th St–Hunter College station)
-- Campus building layout (East Building, West Building, Brookdale campus, etc.)
-- Campus facilities (library, cafeteria, fitness center, computer labs)
-- Safety and public safety contacts
-
---- PLACEHOLDER CONTENT (replace with actual copied text) ---
 
 Hunter College Campus Location: Hunter College is located at 695 Park Ave, New York, NY 10065, at the intersection of East 68th Street and Lexington Avenue on the Upper East Side of Manhattan.
 
 Transit Access: The main campus is directly accessible via the 4, 5, and 6 subway lines at the 68th Street–Hunter College station on Lexington Avenue. The campus is also accessible by the M15 bus on Second and Third Avenues and multiple crosstown bus routes.
 
 Campus Buildings: Hunter College has two main buildings — the East Building and the West Building — connected by a sky bridge over Lexington Avenue. The Thomas Hunter Building is the original historic building located on 68th and Park. The Brookdale campus at 425 East 25th Street houses the School of Health Professions and Nursing programs.
+
+East Building
+
+Leon & Toby Cooperman Library - No Food
+
+Floor B2
+
+    Reading Room - Silent Study
+
+Floor B1
+
+    Reading Room - Silent Study
+
+1st Floor
+
+    Reading Room - Silent Study
+
+3rd Floor
+
+    Anne Spitzer Reading Room - Quiet Study
+    Gilder-Tirschwell Information Commons - Quiet Study
+    Paul and Florrie Kagan Study Center - Quiet Study
+    Barbara Lang Student Commons - Quiet Study
+    Group Study Labs -Quiet Study
+
+5th Floor
+
+    Reading Room - Quiet Study
+
+6th Floor
+
+    Reading Room - Quiet Study
+
+7th Floor
+
+    Mary P. Dolciani Math Learning Center
+    Dr. Murray and Anna P. Rockowitz Writing Center
+    Skirball Science Learning Center
+
+Library Study Rooms
+Have a big test coming up? A term paper due? Hunter has the perfect place for peace and quiet to get your work done.
+
+B2 Floor — Rooms B2A, B2B
+B1 Floor – Room B112
+5th Floor – Room 505
+6th Floor – Rooms 601A, 601B
+
+Study Room Policies
+
+    Can be only reserved by Hunter students with current Hunter ID.
+    No reservations accepted from IELI, Hunter Science High School, or Hunter College High School students, or faculty or alumni.
+    Reservations MUST be made in person at the Reserve Desk
+    Reservations must be made for a maximum of 2 hours, at least one day in advance, but no more than one week in advance.
+    Reservations will be forfeited after 10 minutes if you fail to appear.
+    When not reserved, study rooms are available on a first come, first served basis.
+    Anyone using a study room must vacate the room when the room has been reserved.
+    No food in the study rooms.
+    If the door is locked, please go to the Reserve Desk.
+
+Accessible Study Rooms
+
+The rooms listed below are available for students registered with the Hunter Office of AccessAbility.
+
+    B2 Floor — Rooms B2A, B2B - Office of Accessibility
+    B1 Floor – Room B112 - Office of Accessibility
+    1 Floor- Room 108, 115, 115A - Office of Accessibility
+
+In addition to the rules above:
+
+    You can reserve an accessible study room at the reservation desk in person, or call 212-772-4160 or 212-772-4162.
+    You must present both your Hunter ID and your Access Accommodation ID.
+
+
+West Building
+
+Seating areas for study or meetings
+
+    1st Floor – West Lobby
+    2nd Floor – Balcony (above the gallery, overlooking the lobby)
+    2nd, 4th, 5th, 6th, and 7th Floors – Lounges adjacent to escalators
+    7th Floor – Sidney A. Miller Student Lounge
+
+Thomas Hunter Hall
+Conference rooms and seating areas are available for study or meetings. Also check out the game room!
+
+    1st Floor – Cabaret
+    2nd Floor – Student Union
+
+Baker Hall
+C Level – Marvin Seiger Theatre Library
+
+Outdoor spaces
+
+West Building
+
+    3rd Floor Patio (in the Cafeteria)
+    The East and West Building 8th Floor Terraces are closed for improvements
+
+Around Campus
+
+    Poses Park (68th St. bet. Lexington & 3rd Aves.)
+    Loewe Plaza (68th St. bet. Park & Lexington Aves.)
+    North Plaza (69th St. bet. Park & Lexington Aves.)
+    West Plaza (Intersection of 68th St. & Lexington Ave.)
+
+In the Neighborhood
+
+    Central Park
+
+
+Talking Study Spaces
+As we all continue to adjust to an online, hybrid, and in-person class schedule, we are aware that many students are in need of space on campus to take their online courses.
+ 
+We have created dedicated student Talking Spaces for taking online classes. While in these spaces, students are expected to use their own headphones to listen to their class and can feel free to unmute and speak when necessary.
+Talking Study Spaces
+West Building
+
+    Main Cafeteria – Room 303
+    Grateful Auditor Lounges – next to escalators on floors 3–7
+    Room 522
+    Sidney Miller Lounge – 7th Floor Lounge across from Room 714
+
+East Building
+
+    Digital Cafe – 3rd floor
+
+Thomas Hunter Hall
+
+    Game Room – Room 205
+    Room 104
+    Room 208
+    Room 209
+
+North Building
+
+    C-Level, Room 103
+    C-Level, Room 106
+
+Silberman School of Social Work (2180 3rd Ave.)
+
+    Private Study Rooms in Library
+    Room 215
+    Room 318
+    Computer Labs – C05 and C09
+
+Campus Cafeterias
+
+Main Campus – East Building
+
+    3rd Floor – Barbara Lang Student Commons
+    3rd Floor – World Cup Café
+
+Main Campus – West Building
+
+    3rd Floor – Cafeteria, Glass Cafeteria, Outdoor Patio
+
+Brookdale Campus
+
+School of Social Work
+Eat and Study
+
+Terrace
+Looking to escape the city noise and hustle for a while? The Hunter College campus at 68th Street features an outdoor terrace with plants. With its bird’s-eye view of Lexington Avenue and green foliage, the West Building terrace offers a spacious reprieve with tables and chairs–ideal for studying or socializing.
+
+HW 217 Lounge
+Hunter College’s second floor lounge features several places to sit and study.
+
+Digital Diner Booths
+3rd floor of the East building – outside the Leon & Toby Cooperman Library, you can connect your laptop and work as you eat.
+
+Microwaves
+Available for heating up food:
+
+    217 Lounge – West Building
+    Third Floor Cafeteria – West Building
+
+It’s New York City! Hunter’s urban campus location means there are countless places nearby to eat. Better yet? Several of them offer discounts to Hunter students with a valid student I.D.
+Places to eat near Hunter:
+
+    The Roadside Grill (68th Street and Lexington Avenue)
+    Gourmet Bagel (874 Lexington Ave)
+    Hale & Hearty (849 Lexington Ave)
+    Le Pain Quotidien (861 Lexington Ave)
+    Chipotle (1153 3rd Avenue)
+    Pastafina Pizzeria (876 Lexington Ave)
+    Americas Burgers and Wraps (1159 3rd Ave)
+    Corrado Bread and Pastry (960 Lexington Ave)
+    Mariella Pizza (965 Lexington Ave)
+    Dos Toros Taqueria (1111 Lexington Ave)
+    Chatime (695 Park Ave)
+    Ajisai Japanese Fusion (795 Lexington Ave)
+    Elim Deli Café (851 Lexington Ave)
+    Gotham Coffee House (1298 2nd Ave)
+    Jets Pizza (1165 2nd Avenue) (10% off with student ID)
+
+Coffee shops near Hunter:
+
+    Hunter College Campus Starbucks (West Building Lobby)
+    Shakespeare and Co (939 Lexington Ave) (10% off with student ID)
+    Bel Ami Cafe (30 East 68th St)
+    Dunkin’ Donuts (882 Lexington Ave) (10% off with student ID)
+    Blank Street Coffee (985 Lexington Ave & 71st St)
+    Starbucks (1128 3rd Ave)
+    Nespresso Madison Boutique & Cafe (761 Madison Ave)
+    M’O il gelato (956 Lexington Ave)
+    Padoca Bakery (359 East 68th St)
+    Birch Coffee (134 1/2 E 62nd St & Lexington Ave)
+
+Water Bottle filling stations
+
+West Building
+
+    floor B2, floors 1 - 7
+
+East Building
+
+    3rd floor library, 12th floor, 17th floor
+
+Thomas Hunter Hall
+
+    1st floor and 6th floor
+
+North Building
+
+    Commons, floors 1 - 8, 10th floor, 16th floor
+
+Silberman School of Social Work
+
+    2nd floor
+
+Brookdale
+
+    1st floor
+
+
+Computer access:
+
+Dedicated Windows and Macintosh labs are available for classes, workshops, and orientations. Open hours for walk-in use by students are available in most labs. In addition there are computers available to students in most buildings.
+
+East Building
+
+    Library, 3rd Floor – Gilder-Tirschwell Information Commons
+    Library, 4th Floor – Computer lab
+
+Thomas Hunter Hall
+
+    4th Floor, Room 405 – Computer lab
+
+North Building
+
+    3rd Floor, Room 304 – Student Resource Center
+    10th Floor, Rooms 1001D, F and G – Computer Labs
+
+
+Bike Parking
+
+    Poses Park (68th St. between Lexington & 3rd Aves.)
+    69th St. Entrance (between Park & Lexington Aves.)
+    68th St. (between Park & Lexington Aves.)
+
+
 
 Student Residence: Hunter College has limited on-campus housing. The student residence is located at 425 East 25th Street (Brookdale campus). Space is competitive and primarily available to nursing and health professions students. Most Hunter students are commuters.
 

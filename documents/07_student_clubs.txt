@@ -1,11 +1,5 @@
 SOURCE: Hunter College Official — Student Clubs & Organizations
 URL: https://www.hunter.cuny.edu/students/campus-life/student-clubs/
-NOTE: The page returned only the "About" section during automated fetching. Visit the URL to copy the full club listing.
-
---- ABOUT SECTION (fetched) ---
-
-Hunter College has a wide variety of student clubs and organizations, covering diverse interests and providing opportunities for social engagement, skill development, and community advancement. These groups range from academic, career, recreational, artistic, Greek life, faith, advocacy, and culture-focused topics. Hunter College clubs and organizations are open to all active students without regard to race, gender, national origin, or any other protected class. Anyone can meet up with students who share your interests by joining an existing club or starting a new club.
-
 --- CLUB CATEGORIES AND EXAMPLES ---
 
 ACADEMIC & CAREER CLUBS
