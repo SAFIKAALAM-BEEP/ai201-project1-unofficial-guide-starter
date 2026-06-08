@@ -87,9 +87,9 @@
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1. 
+1. Review noise and conflicting signals. Niche and GradReports contain thousands of short, highly subjective reviews where opposing opinions (e.g., "admin is great" vs. "admin is terrible") may be retrieved for the same query. Without source-level metadata (review date, degree program, recency), the generation step has no principled way to weight or reconcile them. Older reviews from 2017–2019 describe a very different campus environment than 2025–2026 reviews, but all will appear in the vector store at equal weight. Mitigation: store source_date as chunk metadata and include it in the prompt so the LLM can signal recency to the user.
 
-2. 
+2. Chunk boundary splits on multi-step procedural content. The study abroad and financial aid pages contain long sequences of numbered steps where each step depends on the previous one. A 400-token chunk may cut mid-sequence, so a retrieved chunk for "how do I apply to a CUNY exchange program" might start at Step 3 and omit the prerequisite eligibility check in Steps 1–2. This could cause the system to generate confidently incomplete answers. Mitigation: for official policy documents, prefer splitting at logical section headers (H2/H3 boundaries) rather than purely by token count, and increase top-k to 7 for procedural queries to capture adjacent steps.
 
 ---
 
