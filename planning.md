@@ -101,6 +101,35 @@
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
 
+  [1] DOCUMENT INGESTION
+      Tool: requests + BeautifulSoup (Python)
+      Input: 10 source URLs
+      Output: raw text files per source
+          │
+          ▼
+  [2] CHUNKING
+      Tool: LangChain RecursiveCharacterTextSplitter
+      chunk_size=400 tokens, overlap=80 tokens
+      Output: list of Chunk objects {text, source_url, source_date}
+          │
+          ▼
+  [3] EMBEDDING + VECTOR STORE
+      Embedding: sentence-transformers/all-MiniLM-L6-v2
+      Vector Store: ChromaDB (local persistent collection)
+      Output: indexed collection with metadata
+          │
+          ▼
+  [4] RETRIEVAL
+      Input: user query string
+      Tool: ChromaDB similarity search, top-k=5
+      Output: 5 most relevant chunks + their metadata
+          │
+          ▼
+  [5] GENERATION
+      Tool: Claude API (claude-haiku-3 for cost efficiency)
+      Prompt: retrieved chunks + user query → grounded answer
+      Output: answer with inline source citations
+
 ---
 
 ## AI Tool Plan
@@ -117,8 +146,16 @@
 
 **Milestone 3 — Ingestion and chunking:** Claude 
 
-
+Input: the Documents table above (10 URLs) + this Chunking Strategy section specifying 400-token chunks, 80-token overlap, and the preference for header-based splits on official documents
+Expected output: a Python script using requests and BeautifulSoup that fetches each URL, strips navigation/footer boilerplate, and saves clean text to /data/raw/{source_id}.txt and chunk_text(text, source_url, source_date) function using LangChain RecursiveCharacterTextSplitter that returns a list of dicts with keys text, source_url, source_date, chunk_index
+Verification: manually inspect 2–3 saved files to confirm boilerplate is stripped and the content matches the source page and  run on one review document and one procedural document; count total chunks, print the first 3 chunks, and manually confirm no chunk is >420 tokens and that overlap appears correct
 
 **Milestone 4 — Embedding and retrieval:** Claude
+Input: the Retrieval Approach section (model name, top-k) + the chunk schema from above
+Expected output: script that loads all chunks, encodes them with sentence-transformers/all-MiniLM-L6-v2, and upserts them into a ChromaDB persistent collection with metadata fields source_url and source_date
+Verification: query the collection with a known phrase and confirm the correct chunk appears in top-3 results
 
 **Milestone 5 — Generation and interface:**
+Input: the Architecture diagram above + the 5 evaluation questions from the Evaluation Plan
+Expected output: answer_question(query) function that (1) embeds the query, (2) retrieves top-5 chunks from ChromaDB, (3) constructs a prompt that instructs the LLM to answer only from retrieved context and cite sources, (4) calls the Claude API and returns the answer string
+Verification: run all 5 evaluation questions and score each answer as correct / partially correct / incorrect against the expected answers in the Evaluation Plan
