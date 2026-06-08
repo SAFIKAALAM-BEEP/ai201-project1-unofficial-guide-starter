@@ -105,8 +105,8 @@ Temperature is set to `0.0` to prevent creative variation. Each retrieved chunk 
 | 4 | What is the deposit amount required after being accepted to a Hunter study abroad program? | $350 money order or certified check made out to Hunter College | "$350, submitted as a Money Order or Certified Check made out to HUNTER COLLEGE" — exact match | Relevant — Study Abroad Application Guide retrieved as the top source | Accurate |
 | 5 | What GPA do I need to apply for a semester-long exchange program? | Minimum 3.0 GPA and at least 60 completed credits at time of application | Returned only the 3.0 GPA requirement; the 60-credit requirement was not included in the response | Partially relevant — Study Abroad guide retrieved correctly, but Honors Programs and Scholarships also retrieved and are irrelevant to this query | Partially accurate — GPA is correct but the 60-credit prerequisite was omitted |
 
-**Retrieval quality:** Relevant / Partially relevant / Off-target  
-**Response accuracy:** Accurate / Partially accurate / Inaccurate
+**Retrieval quality:** Partially relevant
+**Response accuracy:** Partially accurate
 
 ---
 
@@ -157,9 +157,9 @@ Temperature is set to `0.0` to prevent creative variation. Each retrieved chunk 
 
 **Instance 1**
 
-- *What I gave the AI:*
-- *What it produced:*
-- *What I changed or overrode:*
+- *What I gave the AI:* The Documents table and Chunking Strategy section from `planning.md`, specifying 400-token chunks (~1,600 chars), 80-token overlap (~320 chars), the preference for header-based splits on procedural documents, and the desired output schema: `{text, source_id, source_url, source_date, chunk_index}`.
+- *What it produced:* A complete `ingest_and_chunk.py` with a `Chunk` dataclass, a `clean_text()` function, a recursive character splitter, and a `chunk_document()` function that branches on `doc_type`. It also produced a `main()` that loaded all 10 documents, printed per-source chunk counts, and displayed 5 representative chunks.
+- *What I changed or overrode:* The AI initially used LangChain's `RecursiveCharacterTextSplitter` as specified in the planning doc. I directed it to replace that with a dependency-free recursive implementation using the same separator hierarchy, because LangChain's pydantic version requirements conflicted with ChromaDB on the development machine. I also added the range check (50–2,000 chunks) and the average token-length printout, which the AI had not included.
 
 **Instance 2 — Grounded generation and Gradio interface (Milestone 4)**
  
